@@ -18,5 +18,8 @@ Dataset
 | Without SMOTE | 0.60 | 0.80 |
 | With SMOTE | 0.80 | 0.80 |
 
+> SMOTE improved diabetic recall by 33% with no accuracy drop — accuracy alone was misleading here.
+
+
  Tech Stack
 Python, Pandas, Scikit-learn, Imbalanced-learn, Seaborn
